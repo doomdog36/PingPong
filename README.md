@@ -6,7 +6,8 @@ First .... You enter the number of points you are playing to win, then hit "Play
 
 
 
-![p1](https://user-images.githubusercontent.com/22651469/39402380-b766c908-4b2b-11e8-9e42-e808b88471eb.jpg)
+![p1](https://user-
+.githubusercontent.com/22651469/39402380-b766c908-4b2b-11e8-9e42-e808b88471eb.jpg)
 
 
 
